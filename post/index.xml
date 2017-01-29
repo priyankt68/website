@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Priyank Trivedi</title>
+    <link>https://github.com/priyankt68/website/post/index.xml</link>
+    <description>Recent content in Posts on Priyank Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 29 Jan 2017 16:27:33 +0530</lastBuildDate>
+    <atom:link href="https://github.com/priyankt68/website/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>effective_devops</title>
+      <link>https://github.com/priyankt68/website/2017/01/29/effective_devops</link>
+      <pubDate>Sun, 29 Jan 2017 16:27:33 +0530</pubDate>
+      
+      <guid>https://github.com/priyankt68/website/2017/01/29/effective_devops</guid>
+      <description>&lt;p&gt;I recently completed ** Effective Devops **. An awesome read and here I am sharing my experience on what are authors thoughts on effective devops and what I think about it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
