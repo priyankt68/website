@@ -4,7 +4,7 @@ date: 2017-02-26
 linktitle: Why I attend conferences
 title: Why I attend conferences
 highlight: true
-draft = true
+draft : true
 ---
 
 Why to attend conferences and meetups ?
