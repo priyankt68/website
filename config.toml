@@ -1,4 +1,4 @@
-baseurl = "https://github.com/priyankt68/website/"
+baseurl = "/"
 languageCode = "en-US"
 title = "Priyank Trivedi"
 # Enable comments by entering your Disqus shortname
@@ -11,9 +11,11 @@ theme = "hugo-sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "profile.png"
+  avatar = "profile.jpg"
   author = "Priyank Trivedi"
   description = "Code Folktale"
+  organisation_name = "Zenatix"
+  organisation_address="https://zenatix.com"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
