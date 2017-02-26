@@ -21,7 +21,7 @@ According to him, while writing a proposal document, outline it in the following
 2. Problem definition and why you’re solving it. -  Mention the core of the problem and reasons for solving it.
 3.  How we’re solving - Details on how we're going to solve it.
  
-I highly recommend everyone to read his blog -  
+I highly recommend everyone to read his [blog](https://www.goinggo.net/2017/01/develop-your-design-philosophy.html)
 
 
 ## Key Talks 
