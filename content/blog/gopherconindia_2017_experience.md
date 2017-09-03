@@ -1,11 +1,12 @@
 ---
-author: "Priyank Trivedi"
-date: 2017-02-26
+author: Priyank Trivedi
+date: 2017-02-26 00:00:00 +0000
 linktitle: GopherCon India 2017 Recap
 title: GopherCon India 2017 Recap
 highlight: true
----
+draft: true
 
+---
 3:30 am flight to Pune - just to optimise on the cost and time! Awesome. Totally worth it.
 
 The GopherCon India 2017 was extremely well organised by Emerging Technology Trust with an excellent Master of Ceremony- [Gautam Rege](https://twitter.com/gautamrege). The conference began with a keynote talk by Frances on “context” package and was followed by several interesting talks on a variety of topics. Overall there existed a good mix of architecture as well as implementation level talks.
