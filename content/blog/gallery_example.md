@@ -1,8 +1,10 @@
-+++ 
-title = "Gallery Example"
-description = "This post is an example post demonstrating gallery feature"
-tags = []
++++
 categories = []
+description = "This post is an example post demonstrating gallery feature"
+draft = true
+tags = []
+title = "Gallery Example"
+
 +++
 ## Sample Gallery
 
