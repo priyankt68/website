@@ -1,5 +1,6 @@
 ---
 pages:
+- blog/book-review-algorithms-to-live-by.md
 - blog/tracking-changes-on-server.md
 - blog/pydata-delhi-2017-recap.md
 hide_body: false
