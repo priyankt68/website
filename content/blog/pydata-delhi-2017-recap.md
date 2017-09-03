@@ -1,7 +1,6 @@
 +++
 body = ""
 date = "2017-09-03T23:53:01+00:00"
-draft = true
 figure = ""
 gallery = ["/uploads/2017/09/03/Screen Shot 2017-09-04 at 12.08.23 AM.png"]
 publish_data = ""
