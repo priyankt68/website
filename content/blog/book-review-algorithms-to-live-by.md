@@ -11,6 +11,10 @@ title = "Book Review - Algorithms to live by "
 +++
 
 
+Algorithms to live by is an amazing book which kind of acts like a good supplementary reading.
+
+It's definitely not the kind of book that you would like to read leisurely. It's perhaps not the kind your leisure reading book.
+
 It’s a good blend of anecdotal evidence with intuition required for understanding the underlying algorithm in our day to day decision making
 
 gives you a light dive into the algorithms related to computer networking and it’s evolution over the time. Why it evolved etc.
