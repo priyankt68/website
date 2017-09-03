@@ -40,4 +40,4 @@ I particularly enjoyed the live refactoring on stage by James Powell. James pick
 
 [NetworkX ](https://networkx.github.io/)— In my discussions with James Powell, we discussed quite a few short comings of NetworkX. I am not particularly aware of all of them. It is something which I’m looking to explore. By the way, if you’re looking to learn NetworkX, I highly recommend taking up this [online course offered by DataCamp](https://www.datacamp.com/courses/network-analysis-in-python-part-1).
 
-Overall I had an amazing time meeting so many smart people.
+Overall I had an amazing time meeting so many smart people. I highly recommend everyone to attend PyData Delhi 2018 as well. If you're looking to attend another super-awesome Python conference - attend PyCon India 2017 in November happening in New Delhi.
