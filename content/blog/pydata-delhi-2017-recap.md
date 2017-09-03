@@ -14,14 +14,11 @@ title = "PyData Delhi 2017 Recap"
 
 <div><img src="/uploads/2017/09/03/Screen%20Shot%202017-09-04%20at%2012.08.23%20AM.png" class=" forestry--none" style="width: 100%;"></div>
 
-<div><span class=""><a href="https://pydata.org/delhi2017/"><br></a></span></div>
+<div><span class="">I attend PyData Delhi 2017 over this weekend which is the </span>first conference organized by PyData Delhi chapter at IIIT Delhi. In fact, it’s one of the first PyData conferences in India. If you wish to be a part of the community, <a href="https://www.meetup.com/pydatadelhi/">join the meetup group</a>. <br></div>
 
-<div><span class=""><a href="https://pydata.org/delhi2017/">PyData Delhi 2017</a></span> is the first conference organized by PyData Delhi chapter at IIIT Delhi. In fact, it’s one of the first PyData conferences in India. If you wish to be a part of the community, <a href="https://www.meetup.com/pydatadelhi/">join the meetup group</a>.
-</div>
+<div><p><br></p><p>I had a lot of fun and learned a lot over the two days of conference. Conferences are my way of taking a busy-break in my own way. I attend for workshops, talks, conference-friends-reunion and most importantly — the  hallway tracks.</p></div>
 
-I had a lot of fun and learned a lot over the two days of conference. Conferences are my way of taking a busy-break in my own way. I attend for workshops, talks, conference-friends-reunion and most importantly — the  hallway tracks.
-
-Day 1 started with an awesome opening keynote by [Siraj Raval](https://twitter.com/sirajraval) on Mathematics behind Deep learning. Keynote was a good introduction with a walkthrough of a jupyter notebook. Here's a tweet about it.
+Day 1 started with an awesome opening keynote by [Siraj Raval](https://twitter.com/sirajraval) on Mathematics behind Deep learning. Keynote was a good introduction with a walkthrough of a deep learning code in a jupyter notebook. It was fascinating how Siraj could abstract out complex stuff and made it simple to understand. Here's a tweet about it.
 
 <blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">.<a href="https://twitter.com/sirajraval">@sirajraval</a> leading a crowd of fans for some one-on-one Q&amp;A after his awesome <a href="https://twitter.com/PyDataDelhi">@PyDataDelhi</a> keynote! <a href="https://twitter.com/hashtag/PyDataDelhi17?src=hash">#PyDataDelhi17</a> <a href="https://t.co/npZqD6RIY4">pic.twitter.com/npZqD6RIY4</a></p>— James Powell (@dontusethiscode) <a href="https://twitter.com/dontusethiscode/status/903859656782516225">September 2, 2017</a></blockquote>
 
