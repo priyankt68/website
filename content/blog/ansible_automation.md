@@ -25,7 +25,6 @@ Ansible is an automation system. With Ansible, you can handle configurations, pe
   <figure><img src="/uploads/2017/09/03/Screen%20Shot%202017-09-03%20at%2011.33.41%20PM.png" style="width:100%"><br><br>Ansible Modules - One should think of Ansible Modules as the in-built packages which are available for a sysadmin to use in Ansible Playbooks and then run them on the servers which are mentioned in Ansible Inventory.<br>
   </figure>
   <figure>
-  <img src="/uploads/2017/09/03/Screen%20Shot%202017-09-03%20at%2011.33.32%20PM.png" class=" forestry--none"  style="width:100%">
+  <img src="/uploads/2017/09/03/Screen%20Shot%202017-09-03%20at%2011.33.32%20PM.png" class=" forestry--none" style="width:100%">
 </figure>
-
   </div>
