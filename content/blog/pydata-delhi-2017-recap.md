@@ -11,11 +11,13 @@ title = "PyData Delhi 2017 Recap"
 +++
 
 
-[](https://pydata.org/delhi2017/)
+<div><br></div>
+
+<div><img src="/uploads/2017/09/03/Screen%20Shot%202017-09-04%20at%2012.08.23%20AM.png"></div>
 
 [](https://pydata.org/delhi2017/)
 
-[PyData Delhi 2017](https://pydata.org/delhi2017/) is the first conference organized by PyData Delhi chapter at IIIT Delhi. In fact, it’s one of the first PyData conferences in India.
+[](https://pydata.org/delhi2017/)<a href="https://pydata.org/delhi2017/" class="">PyData Delhi 2017</a> is the first conference organized by PyData Delhi chapter at IIIT Delhi. In fact, it’s one of the first PyData conferences in India.
 
 I had a lot of fun and learned a lot over the two days of conference. Conferences are my way of taking a busy-break in my own way. I attend for workshops, talks, conference-friends-reunion and most importantly — the  hallway tracks.
 
@@ -33,3 +35,4 @@ Key Project Takeaways
 [Firefly ](http://github.com/rorodata/firefly/)— Firefly is a small library which exposes a function over an API. So essentially, one can call a function as one makes a API call over REST method. I’m definitely motivated to explore this sweet library further. Over the next one week, I would deep dive into the project to understand the components and perhaps blog about it as well.
 
 [NetworkX ](https://networkx.github.io/)— In my discussions with James Powell, we discussed quite a few short comings of NetworkX. I am not particularly aware of all of them. It is something which I’m looking to explore. By the way, if you’re looking to learn NetworkX, I highly recommend taking up this [online course offered by DataCamp](https://www.datacamp.com/courses/network-analysis-in-python-part-1).
+
