@@ -32,7 +32,7 @@ Day 1 started with an awesome opening keynote by [Siraj Raval](https://twitter.c
 
 I particularly enjoyed the live refactoring on stage by James Powell. James picked up a python code from Newton’s Fractal and refactored on the stage. The crux of refactoring involved around not using [numba](https://numba.pydata.org/) as a dependency and still maintain the same performance. He attempted to attain it by utilizing [numpy](http://www.numpy.org/) methods which are mostly unknown to programmers who do not understand ins and outs of numpy library. I believe that doing that sort of  refactoring live on stage is commendable. Post his talk, I had a good discussion around PyData community and how working professionals can contribute back to the community like PyData.
 
-<blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">Live code refactoring by <a href="https://twitter.com/dontusethiscode">@dontusethiscode</a> at <a href="https://twitter.com/PyDataDelhi">@PyDataDelhi</a> ! <a href="https://twitter.com/hashtag/PyDataDelhi17?src=hash">#PyDataDelhi17</a> <a href="https://t.co/zMsV8JPl0w">pic.twitter.com/zMsV8JPl0w</a></p>— Priyank Trivedi (@priyankt68) <a href="https://twitter.com/priyankt68/status/904227908184678400">September 3, 2017</a></blockquote> <script type="null"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">Live code refactoring by <a href="https://twitter.com/dontusethiscode">@dontusethiscode</a> at <a href="https://twitter.com/PyDataDelhi">@PyDataDelhi</a> ! <a href="https://twitter.com/hashtag/PyDataDelhi17?src=hash">#PyDataDelhi17</a> <a href="https://t.co/zMsV8JPl0w">pic.twitter.com/zMsV8JPl0w</a></p>— Priyank Trivedi (@priyankt68) <a href="https://twitter.com/priyankt68/status/904227908184678400">September 3, 2017</a></blockquote> 
 
 ### Key Project Takeaways
 
@@ -40,4 +40,6 @@ I particularly enjoyed the live refactoring on stage by James Powell. James pick
 
 [NetworkX ](https://networkx.github.io/)— In my discussions with James Powell, we discussed quite a few short comings of NetworkX. I am not particularly aware of all of them. It is something which I’m looking to explore. By the way, if you’re looking to learn NetworkX, I highly recommend taking up this [online course offered by DataCamp](https://www.datacamp.com/courses/network-analysis-in-python-part-1).
 
-Overall I had an amazing time meeting so many smart people. I highly recommend everyone to attend PyData Delhi 2018 as well. If you're looking to attend another super-awesome Python conference - attend PyCon India 2017 in November happening in New Delhi.
+Overall I had an amazing time meeting so many smart people. I highly recommend everyone to attend PyData Delhi 2018 as well. If you're looking to attend another super-awesome Python conference - look no further and attend PyCon India 2017 in November in New Delhi.
+
+Cheers!
