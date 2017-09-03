@@ -1,5 +1,6 @@
 ---
 pages:
+- blog/tracking-changes-on-server.md
 - blog/pydata-delhi-2017-recap.md
 hide_body: false
 fields:
