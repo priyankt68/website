@@ -1,5 +1,6 @@
 ---
 pages:
+- blog/sources-list-in-raspbian.md
 - blog/introduction-to-git.md
 - blog/book-review-algorithms-to-live-by.md
 - blog/tracking-changes-on-server.md
