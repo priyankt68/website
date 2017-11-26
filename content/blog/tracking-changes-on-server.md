@@ -12,6 +12,7 @@ publish_data: 2017-02-26 02:00:00 +0530
 gallery: []
 body: ''
 figure: ''
+draft: true
 
 ---
 
