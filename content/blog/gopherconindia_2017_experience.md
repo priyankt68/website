@@ -4,7 +4,6 @@ date: 2017-02-26 00:00:00 +0000
 linktitle: GopherCon India 2017 Recap
 title: GopherCon India 2017 Recap
 highlight: true
-draft: true
 
 ---
 3:30 am flight to Pune - just to optimise on the cost and time! Awesome. Totally worth it.
