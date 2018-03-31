@@ -1,12 +1,11 @@
 ---
-author: "Priyank Trivedi"
-date: 2017-03-29
+author: Priyank Trivedi
+date: 2017-03-29 00:00:00 +0000
 linktitle: Terminal Setup
 title: Terminal Setup to Boost Productivity
 highlight: true
 
 ---
-
 Terminals are software developer's best friend to boost productivity. Even in today's age of super complex IDEs, having a highly productive terminal setup can vastly increase the pace at which you get your tasks done.
 
 Here, I will cover my terminal setup which has vastly enhanced my productivity. 

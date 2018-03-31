@@ -1,12 +1,11 @@
 ---
-author: "Priyank Trivedi"
-date: 2017-04-15
+author: Priyank Trivedi
+date: 2017-04-15 00:00:00 +0000
 linktitle: Missing Software Development Component
 title: The Missing Component in my Software Development
 highlight: true
 
 ---
-
 I recently came across a job description for Software Engineer position at a startup which read -   
 
 Join us as a Software Engineer if you believe in this - 

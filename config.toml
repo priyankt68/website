@@ -1,36 +1,29 @@
 baseurl = "/"
-languageCode = "en-US"
-title = "Priyank Trivedi"
-# Enable comments by entering your Disqus shortname
 disqusShortname = "priyankt68"
-# Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-93098302-1"
+languageCode = "en-US"
 theme = "hugo-sustain"
-
-[permalinks]
-  post = "/:year/:month/:day/:slug"
-
-[params]
-  avatar = "profile.jpg"
-  author = "Priyank Trivedi"
-  description = "Code Folktale"
-  organisation_name = "Zenatix"
-  organisation_address="https://zenatix.com"
-
-  # Custom assets can be linked with their paths relative to static/
-  custom_css = []
-  custom_js  = []
-
-[social]
-  Github        = "priyankt68"
-  Email         = "priyank.trivedi@zenatix.com"
-  Twitter       = "priyankt68"
-
-## Main Menu
+title = "Priyank Trivedi"
 [[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
-
-
+name = "work"
+url = "/work"
+weight = 1
+[[menu.main]]
+identifier = "blog"
+name = "blog"
+url = "/blog/"
+weight = 1
+[params]
+author = "Priyank Trivedi"
+avatar = "profile.jpg"
+custom_css = []
+custom_js = []
+description = "Code Folktale"
+organisation_address = "https://zenatix.com"
+organisation_name = "Zenatix"
+[permalinks]
+post = "/:year/:month/:day/:slug"
+[social]
+Email = "priyank.trivedi@zenatix.com"
+Github = "priyankt68"
+Twitter = "priyankt68"

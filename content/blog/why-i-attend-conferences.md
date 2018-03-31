@@ -1,12 +1,12 @@
 ---
-author: "Priyank Trivedi"
-date: 2017-02-26
+author: Priyank Trivedi
+date: 2017-02-26 00:00:00 +0000
 linktitle: Why I attend tech conferences
 title: Why I attend tech conferences
 highlight: true
-draft : true
----
+draft: true
 
+---
 Why to attend conferences and meetups ?
 
 In this blog post I will elaborate more upon why I attend tech conferences and meetups. This is a follow up to the previous article - [Things I do at Conferences](). In this blog, I substantiate more on why you should attend too.

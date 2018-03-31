@@ -1,12 +1,11 @@
 ---
-author: "Priyank Trivedi"
-date: 2017-03-01
+author: Priyank Trivedi
+date: 2017-03-01 00:00:00 +0000
 linktitle: Things I do at conferences and meetups!
 title: Things I do at conferences and meetups !
 highlight: true
 
 ---
-
 A lot of people often ask me for reasons I attend conferences or meetups and what essentially I do at these conferences ? I believe blogging about it could be a good way to reach out to a larger audience.
 
 There are several things I do at conferences and meetups apart from listening to amazing talks - Enjoy sumptuous lunches, Making  “conference friends” - friends I meet only at conferences and later interact on Twitter!
