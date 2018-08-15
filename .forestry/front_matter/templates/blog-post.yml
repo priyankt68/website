@@ -1,13 +1,7 @@
 ---
-pages:
-- blog/bought-a-poncho.md
-- blog/2017-year-in-review.md
-- blog/tracking-changes-on-server.md
-- blog/sources-list-in-raspbian.md
-- blog/introduction-to-git.md
-- blog/book-review-algorithms-to-live-by.md
-- blog/pydata-delhi-2017-recap.md
+label: blog-post
 hide_body: false
+is_partial: false
 fields:
 - type: datetime
   name: publish_data
@@ -27,3 +21,11 @@ fields:
 - type: file
   name: figure
   label: figure
+pages:
+- content/blog/introduction-to-git.md
+- content/blog/bought-a-poncho.md
+- content/blog/pydata-delhi-2017-recap.md
+- content/blog/book-review-algorithms-to-live-by.md
+- content/blog/2017-year-in-review.md
+- content/blog/sources-list-in-raspbian.md
+- content/blog/tracking-changes-on-server.md
