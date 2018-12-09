@@ -23,9 +23,9 @@ fields:
   label: figure
 pages:
 - content/blog/introduction-to-git.md
-- content/blog/bought-a-poncho.md
 - content/blog/pydata-delhi-2017-recap.md
-- content/blog/book-review-algorithms-to-live-by.md
+- content/blog/bought-a-poncho.md
 - content/blog/2017-year-in-review.md
+- content/blog/book-review-algorithms-to-live-by.md
 - content/blog/sources-list-in-raspbian.md
 - content/blog/tracking-changes-on-server.md
