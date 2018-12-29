@@ -1,7 +1,6 @@
 +++
 body = "Reflections on year goneby and my uber optimism for 2019."
 date = "2018-12-29T19:13:28+05:30"
-draft = true
 figure = ""
 gallery = []
 publish_data = "2018-12-30T00:00:00+05:30"
