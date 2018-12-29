@@ -12,7 +12,7 @@ tags = []
 
 ### Stuff that I am happy about
 
-##### First 10k and half marathon run
+#### First 10k and half marathon run
 
 I completed my first 10 km and half marathon this year. It was a true test of my patience, determination and grit. I sure had to train for it and retrospectively, I know I did not train enough for it.
 
@@ -28,6 +28,8 @@ As a young kid, I have travelled a lot with my father on his road trips. Back in
 
 As we used to move ahead in our journey, we encountered people who were willing to go an extra mile to help us out. I remember once an aged man, must be in his late forties showed us the direction to our destination. Our face sort of informed him that we needed more help than just the direction. He politely asked us if he can get on board and help us reach our destination. Hero Electronix, a Hero group company is like that well intentioned wise man who is willing to go an extra mile to help a traveller reach his destination. Sure, that wise man wanted to go that direction as well. I knew he was clever as well.
 
+***
+
 ### Stuff that I am not so happy about
 
 #### No progress with iottales.com
@@ -39,6 +41,8 @@ Creating content has always been very close to me. There was sure a time when I 
 I even bought some equipment for audio recording purpose which is as of today appreciated as a good showpiece in my bedroom.
 
 I plan to make better use of it this year for sure.
+
+***
 
 ### How did I spend most of my time at work
 
@@ -56,11 +60,11 @@ I mentor 4 people at work. It's been hard for me to shift from a programmer in i
 
 It wasn't something which came to me naturally and I struggled with it over the year. I am thankful that I have great people at work who have been supportive and made my journey easier and worth while. I am slowly getting hang of it.
 
-### Personal reflections
+***
 
-I've realised that I can be pessimistic at times. Perhaps, a lot of times.
+### Key Thoughts
 
-Sometimes it helps since you're planning for the worst but a lot of times being optimistic makes you persist more. 
+While on the treadmill this morning, I curated following list of values. This is inspired from a list by [Kenneth Reitz](https://www.kennethreitz.org/values/) . 
 
     Listen
     Keep Running
@@ -74,3 +78,12 @@ Sometimes it helps since you're planning for the worst but a lot of times being 
     Accept change gracefully
     Your health matters the most
     Be calm, confident and assertive
+
+  
+I'll keep striving in 2019 as well and keep progressing on things that matter to me day after day. 
+
+If you are still reading, you are awesome!
+
+Cheers,
+
+Priyank
