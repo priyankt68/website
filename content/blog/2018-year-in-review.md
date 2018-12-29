@@ -62,5 +62,15 @@ I've realised that I can be pessimistic at times. Perhaps, a lot of times.
 
 Sometimes it helps since you're planning for the worst but a lot of times being optimistic makes you persist more. 
 
-    run
-    listen
+    Listen
+    Keep Running
+    Do Sleep Well
+    Always be curious
+    Drink lots of water
+    Persistence pays off
+    Be more in the present
+    Be Honest and Speak Up
+    You're not the smartest
+    Accept change gracefully
+    Your health matters the most
+    Be calm, confident and assertive
