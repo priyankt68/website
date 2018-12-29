@@ -5,7 +5,7 @@ draft = true
 figure = ""
 gallery = []
 publish_data = ""
-tags = ["review"]
+tags = []
 
 +++
 # 2018 Year in review
