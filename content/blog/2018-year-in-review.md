@@ -44,10 +44,23 @@ I plan to make better use of it this year for sure.
 
 #### Hiring
 
-We as a team spent a considerable amount of time in hiring. We could hire 5 awesome folks to our tech team.
+We as a team spent a considerable amount of time in hiring. We could hire 5 awesome folks to our tech team. 
+
+Hiring right people is really hard and extremely important at the stage we're in. It's natural for anyone to get excited by the external perceptions that's built. We're looking for a character which will gel in with our culture as well. That along with technical skills needed makes hiring extremely difficult.
+
+There were times when I was exhausted. It's only times like these which test your patience.  I am thankful that when I'd almost given up on it, I had my colleagues who stood up back me up and take on the hiring baton from me.
 
 #### Mentoring
 
 I mentor 4 people at work. It's been hard for me to shift from a programmer in individual contributor role to manage and mentor a team of engineers. I believe it's a skill in itself to think broadly and have a larger vision to plan engineering effort to execute the vision. After all, vision without execution is hallucination.
 
 It wasn't something which came to me naturally and I struggled with it over the year. I am thankful that I have great people at work who have been supportive and made my journey easier and worth while. I am slowly getting hang of it.
+
+### Personal reflections
+
+I've realised that I can be pessimistic at times. Perhaps, a lot of times.
+
+Sometimes it helps since you're planning for the worst but a lot of times being optimistic makes you persist more. 
+
+    run
+    listen
