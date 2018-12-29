@@ -10,6 +10,12 @@ tags = []
 +++
 # 2018 Year in review
 
+It's again that time of the year when I reflect back on the year gone by. It's a useful exercise. It helps me put things in perspective. It does also make me feel as if so little have I achieved in this previous year but that doesn't really matter eventually. Each one of us is trying their best. If one knows that they've put their honest effort to the best they can, I think that's what really matters.
+
+I've put together some thoughts on things that did go well, things that didn't go too well and what did I do most of the time of the year at work. In the end, I've put together a list of values that I wish to follow in my future life inspired by Kenneth Reitz list. Go checkout his [list](https://www.kennethreitz.org/values/).
+
+***
+
 ### Stuff that I am happy about
 
 #### First 10k and half marathon run
