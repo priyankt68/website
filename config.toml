@@ -4,18 +4,23 @@ googleAnalytics = "UA-93098302-1"
 languageCode = "en-US"
 theme = "hugo-sustain"
 title = "Priyank Trivedi"
-[[menu.main]]
-name = "work"
-url = "/work"
-weight = 1
+enableEmoji = true
+
 [[menu.main]]
 identifier = "blog"
 name = "blog"
 url = "/blog/"
 weight = 1
+
+# [[menu.main]]
+#   name = "projects"
+#   identifier = "projects"
+#   weight = 200
+#   url = "/projects/"
+
 [params]
 author = "Priyank Trivedi"
-avatar = "profile.jpg"
+avatar = "profile.png"
 custom_css = []
 custom_js = []
 description = "Code Folktale"
