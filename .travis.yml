@@ -1,20 +1,36 @@
-language: node_js
-node_js: node
-cache:
-  directories:
-    - node_modules
-script:
-  - npm test
-env:
-  - CI=true
+matrix:
+  include:
+    language: go
 
-before_deploy:
-  - npm install netlify-cli -g
-  - npm run build
+    # before_install
+    # install - install any dependencies required
+    install:
+        - go get github.com/gohugoio/hugo
 
-deploy:
-  provider: script
-  script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./public
-  skip_cleanup: true
-  on:
-    branch: master
+    before_script:
+        - rm -rf public 2> /dev/null
+
+    # script - run the build script
+    script:
+        - hugo
+
+    language: node_js
+    node_js: node
+    cache:
+      directories:
+        - node_modules
+    script:
+      - npm test
+    env:
+      - CI=true
+
+    before_deploy:
+      - npm install netlify-cli -g
+      - npm run build
+
+    deploy:
+      provider: script
+      script: netlify deploy -s $NETLIFY_SITE_ID -t $NETLIFY_ACCESS_TOKEN -p ./public
+      skip_cleanup: true
+      on:
+        branch: master
