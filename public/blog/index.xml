@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Priyank Trivedi</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Priyank Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 29 Dec 2018 19:13:28 +0530</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2018 Year in review</title>
+      <link>/blog/2018-year-in-review/</link>
+      <pubDate>Sat, 29 Dec 2018 19:13:28 +0530</pubDate>
+      
+      <guid>/blog/2018-year-in-review/</guid>
+      <description>It&amp;rsquo;s again that time of the year when I reflect back on the year gone by. It&amp;rsquo;s a useful exercise. It helps me put things in perspective. It does also make me feel as if so little have I achieved in this previous year but that doesn&amp;rsquo;t really matter eventually. Each one of us is trying their best. If one knows that they&amp;rsquo;ve put their honest effort to the best they can, I think that&amp;rsquo;s what really matters.</description>
+    </item>
+    
+    <item>
+      <title>PyData Delhi 2017 Recap</title>
+      <link>/blog/pydata-delhi-2017-recap/</link>
+      <pubDate>Sun, 03 Sep 2017 23:53:01 +0000</pubDate>
+      
+      <guid>/blog/pydata-delhi-2017-recap/</guid>
+      <description>I attended PyData Delhi 2017 over this weekend which was the first conference organized by PyData Delhi chapter at IIIT Delhi. In fact, it’s one of the first PyData conferences in India. If you wish to be a part of the community, join the meetup group.&amp;nbsp; 
+The conference was organised at the beautiful campus of IIIT Delhi.
+ I had a lot of fun and learned a lot over the two days of conference.</description>
+    </item>
+    
+    <item>
+      <title>Ansible - Automation Swiss Knife</title>
+      <link>/blog/ansible_automation/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ansible_automation/</guid>
+      <description>This blog post is an introduction to different components of Ansible - an automation tool that I am using at Zenatix to automate some of the DevOps stuff. It&amp;rsquo;s a pretty useful tool and has been very helpful to me. I needed something really simple and that&amp;rsquo;s why I opted for Ansible.
+So What&amp;rsquo;s Ansible ? Ansible is an automation system. With Ansible, you can handle configurations, perform ad-hoc commands across your servers, copy files to-and-fro from your machines.</description>
+    </item>
+    
+    <item>
+      <title>The Missing Component in my Software Development</title>
+      <link>/blog/missing_component/</link>
+      <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/missing_component/</guid>
+      <description>I recently came across a job description for Software Engineer position at a startup which read -
+Join us as a Software Engineer if you believe in this -
+You don’t take pride in the code you write but the software that you deliver.  That’s when it just struck me.
+That’s what the missing piece is. DELIVERY.
+I figured that it is one of the reasons I miss on deadlines I set for myself.</description>
+    </item>
+    
+    <item>
+      <title>Terminal Setup to Boost Productivity</title>
+      <link>/blog/terminal_setup/</link>
+      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/terminal_setup/</guid>
+      <description>Terminals are software developer&amp;rsquo;s best friend to boost productivity. Even in today&amp;rsquo;s age of super complex IDEs, having a highly productive terminal setup can vastly increase the pace at which you get your tasks done.
+Here, I will cover my terminal setup which has vastly enhanced my productivity.
+iTerm2 I recently ditched the default Terminal.app by OSX and replaced it with iTerm2 and I am definitely not going back.</description>
+    </item>
+    
+    <item>
+      <title>Things I do at conferences and meetups !</title>
+      <link>/blog/things_i_do_at_conferences/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/things_i_do_at_conferences/</guid>
+      <description>A lot of people often ask me for reasons I attend conferences or meetups and what essentially I do at these conferences ? I believe blogging about it could be a good way to reach out to a larger audience.
+There are several things I do at conferences and meetups apart from listening to amazing talks - Enjoy sumptuous lunches, Making “conference friends” - friends I meet only at conferences and later interact on Twitter!</description>
+    </item>
+    
+    <item>
+      <title>GopherCon India 2017 Recap</title>
+      <link>/blog/gopherconindia_2017_experience/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gopherconindia_2017_experience/</guid>
+      <description>3:30 am flight to Pune - just to optimise on the cost and time! Awesome. Totally worth it.
+The GopherCon India 2017 was extremely well organised by Emerging Technology Trust with an excellent Master of Ceremony- Gautam Rege. The conference began with a keynote talk by Frances on “context” package and was followed by several interesting talks on a variety of topics. Overall there existed a good mix of architecture as well as implementation level talks.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Priyank Trivedi" />
+    <meta name="description" content="Code Folktale">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+    <title>Terminal Setup to Boost Productivity</title>
+    <meta name="generator" content="Hugo 0.48" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/css/main.css" /><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-93098302-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/"><i class="fa fa-home"></i></a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/blog/">BLOG</a></li>
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong><a href="/blog/terminal_setup/">Terminal Setup to Boost Productivity</a></strong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          March 29, 2017
+            &nbsp;&nbsp;
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              
+
+<p>Terminals are software developer&rsquo;s best friend to boost productivity. Even in today&rsquo;s age of super complex IDEs, having a highly productive terminal setup can vastly increase the pace at which you get your tasks done.</p>
+
+<p>Here, I will cover my terminal setup which has vastly enhanced my productivity.</p>
+
+<h2 id="iterm2">iTerm2</h2>
+
+<p>I recently ditched the default <code>Terminal.app</code> by OSX and replaced it with iTerm2 and I am definitely not going back.</p>
+
+<h2 id="zsh">Zsh</h2>
+
+<p><a href="http://zsh.sourceforge.net">Z Shell or Zsh</a> is another shell implementation similar to Bourne Again Shell(BAsh) and also a scripting language. All features of BAsh are already integrated in Zsh.</p>
+
+<h3 id="ubuntu">Ubuntu</h3>
+
+<pre><code>sudo apt-get install zsh
+</code></pre>
+
+<p>If you face issue installing on Ubuntu, follow <a href="https://gist.github.com/tsabat/1498393/0af7b86c3ff6e771217a3f6ef84c1ebd2222db80">this</a> thread.</p>
+
+<h3 id="macosx">MacOSX</h3>
+
+<pre><code>brew install zsh
+</code></pre>
+
+<p>If you wish to understand why Zsh is awesome, check this desk by Brendon - <a href="http://www.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692">Why Zsh is Cooler than Your Shell</a></p>
+
+<p>Some useful links:</p>
+
+<ul>
+<li><a href="http://fendrich.se/blog/2012/09/28/no/">No, Really. Use Zsh.</a></li>
+<li><a href="http://grml.org/zsh/zsh-lovers.html">Zsh-loves</a></li>
+<li><a href="http://www.rayninfo.co.uk/tips/zshtips.html">ZSH Tips by ZZapper</a></li>
+</ul>
+
+<h2 id="adding-plugins-to-zsh">Adding plugins to Zsh</h2>
+
+<p><a href="http://ohmyz.sh">OhMyZsh</a> - Get Oh My Zsh using the following command.</p>
+
+<pre><code>sh -c &quot;$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)&quot;
+</code></pre>
+
+<h2 id="tmux">tmux</h2>
+
+<p>It is a program which runs in your terminal and let&rsquo;s you switch between several programs and do a lot more. More details about tmux are <a href="https://tmux.github.io">here</a>.</p>
+
+<h3 id="customising-tmux">Customising tmux</h3>
+
+<p>tmux uses a file called tmux.conf to store it&rsquo;s configuration.</p>
+
+<p>Here&rsquo;s my <code>tmux.conf</code>.</p>
+
+<pre><code>set-option -g default-shell /bin/zsh
+
+# Tmux uses a 'control key', let's set it to 'Ctrl-a'
+# Reason: 'Ctrl-a' is easier to reach than 'Ctrl-b'
+
+unbind C-b
+set-option -g prefix C-a
+bind-key C-a send-prefix
+
+</code></pre>
+
+<p>This is most basic customisation. You can do much more than this Read more <a href="http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/">here</a>.</p>
+
+              <hr>
+              <div class="related-posts">
+                <h5>Related Posts</h5>
+                
+              </div>
+            </div>
+          </div>
+          <hr>
+        <div class="disqus">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+
+    (function() {
+      
+      
+      if (window.location.hostname == "localhost")
+        return;
+
+      var disqus_shortname = 'priyankt68';
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+        </div>
+      </div>
+      
+    </div>
+
+    
+    <footer>
+  <div id="footer">
+    <div class="container">
+      <p class="text-muted"> Powered by <a href="https://gohugo.io/">Hugo</a> and
+      <a href="http://www.github.com/nurlansu/hugo-sustain/">sustain</a> with ♥</p>
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/js/docs.min.js"></script>
+<script src="/js/main.js"></script>
+
+<script src="/js/ie10-viewport-bug-workaround.js"></script><!-- Syntax highlighting -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+  </body>
+</html>

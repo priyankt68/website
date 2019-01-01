@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on Priyank Trivedi</title>
+    <link>/tags/devops/</link>
+    <description>Recent content in Devops on Priyank Trivedi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ansible - Automation Swiss Knife</title>
+      <link>/blog/ansible_automation/</link>
+      <pubDate>Sun, 30 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ansible_automation/</guid>
+      <description>This blog post is an introduction to different components of Ansible - an automation tool that I am using at Zenatix to automate some of the DevOps stuff. It&amp;rsquo;s a pretty useful tool and has been very helpful to me. I needed something really simple and that&amp;rsquo;s why I opted for Ansible.
+So What&amp;rsquo;s Ansible ? Ansible is an automation system. With Ansible, you can handle configurations, perform ad-hoc commands across your servers, copy files to-and-fro from your machines.</description>
+    </item>
+    
+  </channel>
+</rss>

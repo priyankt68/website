@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Priyank Trivedi" />
+    <meta name="description" content="Code Folktale">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+    <title>GopherCon India 2017 Recap</title>
+    <meta name="generator" content="Hugo 0.48" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/css/main.css" /><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-93098302-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/"><i class="fa fa-home"></i></a>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/blog/">BLOG</a></li>
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong><a href="/blog/gopherconindia_2017_experience/">GopherCon India 2017 Recap</a></strong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          February 26, 2017
+            &nbsp;&nbsp;
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              
+
+<p>3:30 am flight to Pune - just to optimise on the cost and time! Awesome. Totally worth it.</p>
+
+<p>The GopherCon India 2017 was extremely well organised by Emerging Technology Trust with an excellent Master of Ceremony- <a href="https://twitter.com/gautamrege">Gautam Rege</a>. The conference began with a keynote talk by Frances on “context” package and was followed by several interesting talks on a variety of topics. Overall there existed a good mix of architecture as well as implementation level talks.
+It was the third edition of GopherCon India attended by close to 300 delegates with representation from 12 countries.</p>
+
+<h2 id="key-talks">Key Talks</h2>
+
+<p>Following are some of the talks which I particularly liked.</p>
+
+<ul>
+<li>Fast and Scalable Machine Learning with GoLang by Vidyasagar Nallapati - <a href="https://speakerdeck.com/doctorandabox/fast-and-scalable-machine-learning-with-golang">Talk slides</a>
+
+<ul>
+<li>Vidyasagar talked about how they built data pipelines using services written in Golang at EMC2, their reasons for exploring Golang as a programming language.</li>
+</ul></li>
+<li>Building Distributed Timeseries Database in Go by Matthew Campbell - <a href="https://speakerdeck.com/mattkanwisher/building-distributed-timeseries-database-in-go">Talk Slides</a></li>
+<li>&ldquo;Flogo - A Golang-powered Open Source IoT Integration Framework by Kai Wähner - <a href="http://www.slideshare.net/KaiWaehner/flogo-a-golangpowered-open-source-iot-integration-framework-gophercon">Talk slides</a></li>
+</ul>
+
+<h2 id="my-lightning-talk-server-monitoring-using-influxdata-https-twitter-com-apsops-status-835085984723263489">My Lightning Talk - <a href="https://twitter.com/ApsOps/status/835085984723263489">Server Monitoring using Influxdata</a></h2>
+
+<p>I got an opportunity to give a lightning talk on &lsquo;Server Monitoring using Influxdata&rsquo;. I detailed about how at <a href="https://zenatix.com">Zenatix</a>, we&rsquo;re using Influxdata&rsquo;s TICK stack for monitoring our servers with right alerts in place.
+I followed it up with demonstrating some Golang code for writing a Telegraf plugins. <a href="https://speakerdeck.com/priyankt68/server-monitoring-using-influxdata">Talk slides</a>
+[update] - <a href="https://www.youtube.com/watch?v=1BAIOUON2Uo&amp;feature=youtu.be&amp;t=698">Video is up here on Youtube</a></p>
+
+<h2 id="key-projects-takeaway">Key Projects Takeaway</h2>
+
+<p>My discussions around projects revolved around IoT and Data Analytics. Following are some of the good projects that I&rsquo;d like to try out in-depth.</p>
+
+<ul>
+<li><a href="https://flogo.io">Flogo</a> - Open source project written in Go for IoT integration. It&rsquo;s a project released under <a href="https://github.com/TIBCOSoftware/flogo/blob/master/LICENSE.txt">BSD-style license</a>. It&rsquo;s definitely one of the projects that I would like to explore from the architecture standpoint.</li>
+<li><a href="https://gobot.io">Gobots</a> - I came to know about this through on my hallway discussions.</li>
+<li><a href="https://github.com/digitalocean/vulcan">Vulcan</a> - Matthew is his talk detailed on how they built Vulcan on top of Prometheus at DigitalOcean. This <a href="https://github.com/digitalocean/vulcan/issues/45">issue</a> on GitHub details on why Vulcan exists.</li>
+</ul>
+
+<h2 id="the-hallway-tracks">The Hallway Tracks</h2>
+
+<p>These are tracks which happen when you’re interacting with attendees in the hallways. One of the core reasons why attend most conferences!</p>
+
+<p>In these &lsquo;tracks&rsquo;, I discuss about the problem we&rsquo;re solving at <a href="https://zenatix.com">Zenatix</a> and also get a perspective on what others think about it.</p>
+
+<p>I had an amazing discussion with <a href="https://twitter.com/@goinggodotnet">William Kennedy</a> on writing a proposal document before planning any feature/bug. According to him, one should try to bring in <code>“Why”</code> before writing any line of code.</p>
+
+<p>According to him, while writing a proposal document, outline it in the following manner.</p>
+
+<ol>
+<li>History of the problem - Give users a flavor of the problem with information around the problem. This is more like the literature survey in academic publications.</li>
+<li>Problem definition and why you’re solving it. -  Mention the core of the problem and reasons for solving it.</li>
+<li>How we’re solving - Details on how we&rsquo;re going to solve it.</li>
+</ol>
+
+<p>I highly recommend everyone to read his <a href="https://www.goinggo.net/2017/01/develop-your-design-philosophy.html">blog</a>.</p>
+
+<h2 id="overall-experience">Overall Experience</h2>
+
+<p>I had a tremendous learning experience at GopherCon India. The GoLang community in India is pretty young. There is a lot that needs to be done to spread the magic of Go around.
+I believe conferences such as these are one of key factors in determining the success of the community. Kudos to everyone involved with GopherCon India 2017.</p>
+
+              <hr>
+              <div class="related-posts">
+                <h5>Related Posts</h5>
+                
+              </div>
+            </div>
+          </div>
+          <hr>
+        <div class="disqus">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+
+    (function() {
+      
+      
+      if (window.location.hostname == "localhost")
+        return;
+
+      var disqus_shortname = 'priyankt68';
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+        </div>
+      </div>
+      
+    </div>
+
+    
+    <footer>
+  <div id="footer">
+    <div class="container">
+      <p class="text-muted"> Powered by <a href="https://gohugo.io/">Hugo</a> and
+      <a href="http://www.github.com/nurlansu/hugo-sustain/">sustain</a> with ♥</p>
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/js/docs.min.js"></script>
+<script src="/js/main.js"></script>
+
+<script src="/js/ie10-viewport-bug-workaround.js"></script><!-- Syntax highlighting -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+  </body>
+</html>
