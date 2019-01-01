@@ -25,7 +25,7 @@ ID = "c4f1ae7d-de48-4c30-a0e2-230f6aa16a44"
 # deploy contexts will inherit these settings.
 [context.production]
   publish = "public/"
-  command = "netlify deploy"
+#   command = "netlify deploy"
 
 # # Deploy Preview context: all deploys resulting from a pull/merge request will 
 # # inherit these settings.
