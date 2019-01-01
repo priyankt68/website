@@ -23,7 +23,7 @@ before_deploy:
 
 deploy:
   provider: script
-  script: netlify deploy -s $NETLIFY_SITE_ID -a $NETLIFY_ACCESS_TOKEN -d ./public
+  script: netlify deploy -s $NETLIFY_SITE_ID -a $NETLIFY_ACCESS_TOKEN -d ./public --message "deployment from CI"
   skip_cleanup: true
   on:
     branch: master
