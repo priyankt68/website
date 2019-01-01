@@ -1,4 +1,5 @@
 +++
+title = "2018 Year in review"
 body = "Reflections on year goneby and my uber optimism for 2019."
 date = "2018-12-29T19:13:28+05:30"
 figure = ""
@@ -7,15 +8,16 @@ publish_data = "2018-12-30T00:00:00+05:30"
 tags = ["review"]
 
 +++
-# 2018 Year in review
 
-It's again that time of the year when I reflect back on the year gone by. It's a useful exercise. It helps me put things in perspective. It does also make me feel as if so little have I achieved in this previous year but that doesn't really matter eventually. Each one of us is trying their best. If one knows that they've put their honest effort to the best they can, I think that's what really matters.
+It's again that time of the year when I reflect back on the year gone by. It's a useful exercise and helps me put things in perspective. It does also make me feel as if so little have I achieved in this previous year but that doesn't really matter eventually. Each one of us is trying their best. If one knows that they've put their honest effort to the best they can, I think that's what really matters.
 
 I've put together some thoughts on things that did go well, things that didn't go too well and what did I do most of the time of the year at work. In the end, I've put together a list of values that I wish to follow in my future life inspired by Kenneth Reitz list. Go checkout his [list](https://www.kennethreitz.org/values/).
 
 ***
 
 ### Stuff that I am happy about
+
+<br>
 
 #### First 10k and half marathon run
 
@@ -24,6 +26,8 @@ I completed my first 10 km and half marathon this year. It was a true test of my
 My legs pained a lot after the run but I am glad I could reach the finish line.
 
 It made me think that running a marathon is similar to our life. Sure, there'll be obstacles in your path but the aim is to keep moving and approaching the goal. Progress matters more than the speed. There will always be people and system around you to support but it's you who will have to lift your feet, even if it's paining the most, and reach the finish line. Every level of pain is worth it when you reach the finish line.
+
+<br/>
 
 #### Hero acquires stakes at Zenatix.
 
@@ -36,6 +40,8 @@ As we used to move ahead in our journey, we encountered people who were willing 
 ***
 
 ### Stuff that I am not so happy about
+
+<br/>
 
 #### No progress with iottales.com
 
@@ -51,6 +57,8 @@ I plan to make better use of it this year for sure.
 
 ### How did I spend most of my time at work
 
+<br/>
+
 #### Hiring
 
 We as a team spent a considerable amount of time in hiring. We could hire 5 awesome folks to our tech team. 
@@ -59,6 +67,7 @@ Hiring right people is really hard and extremely important at the stage we're in
 
 There were times when I was exhausted. It's only times like these which test your patience.  I am thankful that when I'd almost given up on it, I had my colleagues who stood up back me up and take on the hiring baton from me.
 
+<br/>
 #### Mentoring
 
 I mentor 4 people at work. It's been hard for me to shift from a programmer in individual contributor role to manage and mentor a team of engineers. I believe it's a skill in itself to think broadly and have a larger vision to plan engineering effort to execute the vision. After all, vision without execution is hallucination.
@@ -68,6 +77,9 @@ It wasn't something which came to me naturally and I struggled with it over the 
 ***
 
 ### Key Thoughts
+
+<br/>
+
 
 While on the treadmill this morning, I curated following list of values. This is inspired from a list by [Kenneth Reitz](https://www.kennethreitz.org/values/) . 
 
