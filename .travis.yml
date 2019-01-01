@@ -9,10 +9,13 @@ env:
   - CI=true
 
 install:
+  - sudo pip install pygments
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.48/hugo_0.48_Linux-64bit.deb -O /tmp/hugo.deb && sudo dpkg -i /tmp/hugo.deb
   - rm -rf public || exit 0
 
 script:
-  - binaries/hugo
+  - pygmentize -V
+  - hugo -v
 
 before_deploy:
   - npm install netlify-cli -g
