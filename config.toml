@@ -5,7 +5,7 @@ languageCode = "en-US"
 theme = "hugo-sustain"
 title = "Priyank Trivedi"
 enableEmoji = true
-
+themesDir = "themes"
 [[menu.main]]
 identifier = "blog"
 name = "blog"
