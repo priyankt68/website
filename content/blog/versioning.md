@@ -1,8 +1,8 @@
 +++
 title = "Software Versioning"
 description = "Thoughts on modern software versioning and it's interplay with hardware"
-date = 2018-01-06 18:00:00 +0000
-tags = []
+date = "2019-01-06T12:53:01+00:00"
+tags = ["software","thoughts"]
 categories = []
 +++
 
